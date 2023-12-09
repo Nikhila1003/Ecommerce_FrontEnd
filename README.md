@@ -1,4 +1,4 @@
-# Shoe Store
+# ECommerce
 
 ## Intro
 This is a basic project during the initial learning of web development, built using HTML5, CSS3, and JavaScript.
