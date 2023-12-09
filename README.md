@@ -6,3 +6,7 @@ This is a basic project during the initial learning of web development, built us
 ## Learnings & Outcomes
 * Building dynamic content loading using JavaScript and JSON.
 * Styling of the web pages and lazy loading of images.
+
+''' Python
+  print("Hello World")
+'''
