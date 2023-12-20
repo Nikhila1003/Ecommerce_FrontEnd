@@ -7,7 +7,7 @@ This is a basic project built during the initial learning of web development, bu
 ![Landing Page](img/LandingPage.png)
 
 ## Features & Functionalities
-- A basic webpage styles using HTML & CSS.
+- A basic webpage styled using HTML & CSS.
 - Dynamically load the page content using JavaScript & JSON.
 - A simple payment UI that can be integrated with the API Gateway.
 - New items can be easily added to the page, as it is handled using a simple JSON file with all the list of items.
